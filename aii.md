@@ -1,0 +1,14 @@
+| Method / Task              | Description                                                                                       | Examples of Algorithms                     |
+|----------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------|
+| **Supervised Learning**    | Training a model on labeled data where inputs and corresponding outputs are known.                 | Linear Regression, Decision Trees, Neural Networks (for both classification and regression tasks), Support Vector Machines (SVM), k-Nearest Neighbors (k-NN) |
+| **Unsupervised Learning**  | Finding hidden patterns or intrinsic structures in input data without labeled responses.           | Clustering (e.g., K-means), Dimensionality Reduction (e.g., PCA), Association Rule Learning (e.g., Apriori algorithm) |
+| **Reinforcement Learning** | Teaching algorithms to make sequences of decisions by trial and error, learning from feedback.     | Q-Learning, Deep Q Networks (DQN), Policy Gradient Methods |
+| **Semi-supervised Learning** | Using a small amount of labeled data alongside a large amount of unlabeled data to improve learning accuracy. | Self-training, Co-training, Label propagation |
+| **Transfer Learning**     | Applying knowledge gained from solving one problem to a different but related problem.             | Pre-trained models (e.g., BERT for NLP tasks), Fine-tuning neural networks |
+| **Deep Learning**         | Using neural networks with many layers to learn hierarchical representations of data.             | Convolutional Neural Networks (CNN) for Computer Vision, Recurrent Neural Networks (RNN) for NLP |
+| **Natural Language Processing (NLP)** | Methods and techniques for enabling computers to understand, interpret, and generate human language. | Word embeddings (e.g., Word2Vec), Sequence-to-sequence models (e.g., LSTM-based models) |
+| **Computer Vision**       | Applying ML and AI techniques to interpret and understand visual information from the world.     | Object detection (e.g., YOLO), Image segmentation (e.g., Mask R-CNN) |
+| **Generative Adversarial Networks (GANs)** | Unsupervised learning where two neural networks compete to generate increasingly realistic outputs. | StyleGAN, CycleGAN |
+| **Decision Trees**        | A tree-like model of decisions and their possible consequences.                                  | Classification and Regression Trees (CART) |
+| **Classification**        | Predicting the category or class label of new observations based on past observations.           | Logistic Regression, Decision Trees, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN) |
+| **Regression**            | Predicting a continuous-valued output based on input features.                                    | Linear Regression, Polynomial Regression, Support Vector Regression (SVR) |
