@@ -1,6 +1,13 @@
 ## Topic
 Proposition: Should Singapore maintain the policy of neutrality when it come to conflict in the world.
 
+## Navigation
+| navigation |
+|---|
+| [being neutral](https://github.com/pendragons-code/CCC-modules-School/blob/master/TCU/being%20neutral.md) |
+| [incidents](https://github.com/pendragons-code/CCC-modules-School/blob/master/TCU/incidents) |
+| [research.md](https://github.com/pendragons-code/CCC-modules-School/blob/master/TCU/research.md) |
+
 ## What does it mean to be neutral
 1) Objectivity: Being objective means presenting facts, evidence, and reasoned arguments without bias or personal emotions influencing the analysis. Objective criticism focuses on the merits of the decision itself, examining its logical coherence, adherence to principles, and potential consequences.
 2) Neutrality: Neutrality involves not taking sides or favoring any particular outcome or party. In the context of criticism, a neutral stance means evaluating the decision or situation based on its own merits, rather than aligning with or against any specific perspective.<br><br>
