@@ -4,9 +4,10 @@
 ## Navigation
 | classification | url |
 |---|---|
-| point |  |
-| research |  |
-| working conditions |  |
+| point | [click me](https://github.com/pendragons-code/CCC-modules-School/blob/master/PSCCT/point.md) |
+| research | [click me](https://github.com/pendragons-code/CCC-modules-School/blob/master/PSCCT/research.md) |
+| working conditions | [click me](https://github.com/pendragons-code/CCC-modules-School/blob/master/PSCCT/working%20conditions.md) |
+| Income and wages issues | [click me](https://github.com/pendragons-code/CCC-modules-School/blob/master/PSCCT/income%20and%20wage%20issues.md) |
 
 ### Problem Statement Technical Details:
 Foreign workers in Singapore face challenges related to:
