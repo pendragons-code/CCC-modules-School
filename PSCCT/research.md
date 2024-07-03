@@ -1,7 +1,14 @@
 ## topic
 "How can we help foreign workers in Singapore have a more equal and fair work environment"
 
-### Problem Statement:
+## Navigation
+| classification | url |
+|---|---|
+| point |  |
+| research |  |
+| working conditions |  |
+
+### Problem Statement Technical Details:
 Foreign workers in Singapore face challenges related to:
 
 1. **Fair Wages**: Many are underpaid or face delays in payment.
