@@ -5,7 +5,7 @@ Proposition: Should Singapore maintain the policy of neutrality when it come to 
 | navigation |
 |---|
 | [being neutral](https://github.com/pendragons-code/CCC-modules-School/blob/master/TCU/being%20neutral.md) |
-| [incidents](https://github.com/pendragons-code/CCC-modules-School/blob/master/TCU/incidents) |
+| [incidents](https://github.com/pendragons-code/CCC-modules-School/blob/master/TCU/incidents.md) |
 | [research.md](https://github.com/pendragons-code/CCC-modules-School/blob/master/TCU/research.md) |
 
 ## What does it mean to be neutral
